@@ -1,22 +1,170 @@
-#EXTM3U name="My SEA Games + Cignal Playlist"
+#EXTM3U name="Playlist"
 
 #EXTM3U
 
-**********SEA Games**********
+############### NBA — AUTO-UPDATING TEAM CHANNELS ###############
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Pilipinas Live Event #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SEA Games", Pilipinas Live Event 1
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Los Angeles Lakers (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Golden State Warriors (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Boston Celtics (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Phoenix Suns (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Houston Rockets (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Chicago Bulls (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", San Antonio Spurs (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocllood.in/nba_sanantoniospurs/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Oklahoma City Thunder (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Dallas Mavericks (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Utah Jazz (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Minnesota Timberwolves (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Philadelphia 76ers (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Detroit Pistons (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Orlando Magic (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Brooklyn Nets (LIVE)
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_brooklynnets/index.m3u8
+
+############### SEA GAMES — PILIPINAS LIVE ###############
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+#KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="Pilipinas Live Event #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="SEA Games", Pilipinas Live Event 2
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
+
+#EXTINF:-1 group-title="SEA-GAMES" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png", Pilipinas Live 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
 **********Cignal TV**********
 
