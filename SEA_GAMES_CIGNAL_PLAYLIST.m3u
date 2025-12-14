@@ -4,96 +4,9 @@
 #EXTM3U
 
 ############### NBA — AUTO-UPDATING TEAM CHANNELS ###############
+#EXTINF:-1 group-title="NBA", NBA Auto (All Games)
+https://nba.warm98.workers.dev/playlist.m3u8
 
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Los Angeles Lakers (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Golden State Warriors (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Boston Celtics (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Phoenix Suns (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Houston Rockets (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Chicago Bulls (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", San Antonio Spurs (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocllood.in/nba_sanantoniospurs/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Oklahoma City Thunder (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Dallas Mavericks (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Utah Jazz (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Minnesota Timberwolves (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Philadelphia 76ers (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Detroit Pistons (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_detroitpistons/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Orlando Magic (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_orlandomagic/index.m3u8
-
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.imgur.com/x1ZG71v.png", Brooklyn Nets (LIVE)
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
 
 ############### SEA GAMES — PILIPINAS LIVE ###############
 
