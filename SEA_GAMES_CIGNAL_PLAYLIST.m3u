@@ -3,9 +3,11 @@
 
 #EXTM3U
 
-############ NBA AUTO SECTION ############
-#EXTINF:-1 group-title="NBA", NBA Auto Playlist (LIVE/OFFLINE)
+**********NBA-AUTO**********
+
+#EXTINF:-1 group-title="NBA Auto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg", NBA – Auto Live/Offline (Enhanced)
 https://nba-games.mangotarina.workers.dev/nba.m3u
+
 
 
 ############### SEA GAMES — PILIPINAS LIVE ###############
