@@ -1,6 +1,3 @@
-
-#EXTM3U billed-msg="BEW BEW BEW BEW BEW BEW BEW BEW BEW BEW BEW BEW"
-
 #EXTM3U
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg", Asian Games CH01
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -39,32 +36,42 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png", Astro ASG26 CH795
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e6284c2123706edefc59bb0c0548e10:c5f3d526135aa295d290f76ee6cb7479
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png", Astro ASG26 CH796
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=339cbed6dbf4fef81a19d9168feb7910:52a5c7fecad0558e094903fdc8b7cd77
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png", Astro ASG26 CH797
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=500b319392940c187ba932a698780710:ebeae1a0c632461ef99d19122e9408e5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png", Astro ASG26 CH798
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c4895263310ac2bdaa9ccff1b654510:81e12ab4c7bb25b2d9f5849c794379de
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
 #EXTINF:-1 group-title="🏆|Asian Games Aichi-Nagoya 2026" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png", Astro ASG26 CH799
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19632b63cf668de01b77ded6d7a9af10:d69222bf7b387b1b72a358e0b8db5402
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5605/default_primary.mpd
